@@ -1,0 +1,5 @@
+export const ADD_PRODUCT = 'ADD_PRODUCT';
+export const ADD_UNITS = 'ADD_UNITS';
+export const REMOVE_PRODUCT = 'REMOVE_PRODUCT';
+export const REMOVE_UNITS = 'REMOVE_UNITS';
+export const RESTART_PRODUCTS = 'RESTART_PRODUCTS';
